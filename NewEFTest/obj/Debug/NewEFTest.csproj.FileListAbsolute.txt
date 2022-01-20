@@ -1,0 +1,14 @@
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\NewEFTest.exe.config
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\NewEFTest.exe
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\NewEFTest.pdb
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\EntityFramework.dll
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\EntityFramework.xml
+C:\Users\79282\source\repos\EFTest\NewEFTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.csproj.AssemblyReference.cache
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.csproj.CoreCompileInputs.cache
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.csproj.CopyComplete
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.exe
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.pdb
+C:\Users\79282\source\repos\EFTest\NewEFTest\obj\Debug\NewEFTest.csproj.ResolveComReference.cache

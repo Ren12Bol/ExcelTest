@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99352f0e-b4b4-485d-ad59-5852f43912d6": {
+      "ProjectGuid": "99352f0e-b4b4-485d-ad59-5852f43912d6",
+      "DisplayName": "EFTest",
+      "ColorIndex": 0
+    },
+    "f2fae7ab-ebb7-493d-a368-b4b15245ef09": {
+      "ProjectGuid": "f2fae7ab-ebb7-493d-a368-b4b15245ef09",
+      "DisplayName": "NewEFTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
